@@ -1,3 +1,3 @@
 # Python_Telegram_Vacancies
 
-#### Pytho Telegram Bot vacancies
+#### Python Telegram Bot vacancies
